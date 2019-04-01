@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asim on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/asim/</link>
+    <description>Recent content in Asim on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/asim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New instrument ASIM in the ISS to observe thunderstorms</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/51/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/51/</guid>
+      <description>ASIM (Atmosphere-Space Interactions Monitor) was arrived on April 13, 2018 on the International Space Station (ISS).
+This instrument can observe TLE (transient luminous events) and TGF ( Terrestrial gamma-ray flashes ) for a better understanding of the influence of violent storms on the atmosphere and the climate on Earth.
+B.USOC is the ESA responsible center for the ASIM infrastructure :
+ receiving the telemetries, monitoring the instrument delivering the data to ASIM Science Data Centre in Denmark.</description>
+    </item>
+    
+    <item>
+      <title>B.USOC role in the ASIM operations on the ISS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/17/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/17/</guid>
+      <description>ASIM is an ISS science payload aimed principally at the observation of Transitory Light Events (TLE) occurring over intense thunderstorms lightning. ASIM observes also TGF’s (terrestrial gamma rays flashes which are also related to strong lightning. It has been proposed by the Danish scientist Torsten Neubert and is due for launch in 2016. B.USOC is Facility Responsible Centre (FRC) for this payload.
+The ASIM mission constitutes of a package of two nadir instruments : one for the visible and another for the X ray and radio frequencies, the normal operating mode is a trigger mode where both instruments are continuously measuring but do not record data below thresholds to be determined by the science team.</description>
+    </item>
+    
+  </channel>
+</rss>

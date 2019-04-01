@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iss on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/iss/</link>
+    <description>Recent content in Iss on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Fri, 24 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/iss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First command to the FSL in the ISS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/28/</link>
+      <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/28/</guid>
+      <description>April 21, 2015: first command sent to B.USOC to the ISS Fluid Science Laboratory (FSL).
+In the morning of April 21, the B.USOC team successfully activated the FSL module in COLUMBUS and both sent test commands and received ancillary data leading to the start of a new activity in B.USOC. This successful end to end test prepares future science operations and is currently analysed in details.</description>
+    </item>
+    
+    <item>
+      <title>Successful HDEV installation on Columbus platform</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/16/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/16/</guid>
+      <description>Wednesday 30 April, the NASA Payload, HDEV was successfully installed on the Nadir external platform of Columbus. During the installation SOLAR (on the zenith position) had to be completely switched off (survival heaters included) for about 30 minutes.
+HDEV payload is hosting video cameras looking at the Earth, live stream from the cameras can be seen here: http://www.ustream.tv/channel/iss-hdev-payload</description>
+    </item>
+    
+    <item>
+      <title>Ham Video commissioning completed successfully! </title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/15/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/15/</guid>
+      <description>Four ARISS ground stations (Poitiers, Bornemouth, Casale Monferrato and Livorno) took part in this final pass, and all together recorded the transmitted video and audio signal of about 6 minutes:
+  B.USOC was very proud to coordinate these Ham Video commissioning activities for ARISS, on behalf of ESA.</description>
+    </item>
+    
+    <item>
+      <title>First Ham Video tests on-board ISS, so far so good!</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/14/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/14/</guid>
+      <description>Thanks to the American astronaut Michael Hopkins, and the operators teams on the ground, B.USOC in close collaboration with ARISS grounds stations spread over Italy. The last pass of Ham Video commissioning is foreseen in April-May timeframe, with the Japanese taïkonaute Koichi Wakata.
+See more information here: http://www.ariss-eu.org/
+http://amsat-uk.org/2014/03/08/iss-hamtv-success/</description>
+    </item>
+    
+    <item>
+      <title>The new cooling pump allows again full power for ISS payloads</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/10/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/10/</guid>
+      <description>On December 26, the new cooling pump for the second electrical circuit was put in service after two spacewalks&amp;hellip;
+On December 26, the new cooling pump for the second electrical circuit was put in service after two spacewalks and the full power could be restored on the station scientific payloads including the SOLAR package. SOLAR could be tested and will restart observations at the next solar visibility window this January.</description>
+    </item>
+    
+    <item>
+      <title>temporary interruption of SOLAR due to partial cooling failure</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/9/</link>
+      <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/9/</guid>
+      <description>On Wednesday December 11, the pump module on one of the space station’s two external cooling loops automatically shut down when it reached pre-set temperature limits. These loops circulate ammonia outside the station to keep both internal and external equipment cool.</description>
+    </item>
+    
+    <item>
+      <title>SOLAR on the ISS resumes normal operations after replacement of a leaking cooling pump on the ISS.</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/7/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/7/</guid>
+      <description>The ISS astronauts stopped an ammonia leak in the ISS external cooling loop by replacing a suspected pump unit by the spare one and checking all connections on Saturday May 11.
+http://www.nasa.gov/mission_pages/station/expeditions/expedition35/e35_051113_eva.html
+This leak had appeared on May 9 and posed a threat to the ISS power conditioning as the main function of this cooling loop is to control the temperature of the electrical motors moving the solar panels. The coolant lines will have to be monitored for several weeks before it is certain that the leak has been fully fixed by the replacement and maintenance EVA of May 11.</description>
+    </item>
+    
+    <item>
+      <title>KuPS successfully installed on the ISS November</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/6/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/6/</guid>
+      <description>Yesterday, Novembert 6th, the Portable Pwr Supply (KuPS) was installed successfully on the ISS. Portable Pwr Supply, as the name says, provides power to experiments. The first experiment attached to Portable Pwr Supply is TRITEL, which will monitor the radiation environment in the European Columbus module. TRITEL was also installed yesterday, and will run for 6 months.</description>
+    </item>
+    
+    <item>
+      <title>Belgian Operations Center gets the ISS rotated</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/2/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/2/</guid>
+      <description>SOLAR was installed on Columbus the same day the module itself was attached to the other modules of the space station. Being in space since February 2008, SOLAR will soon be celebrating its 5th birthday. &amp;laquo;This is quite an achievement&amp;raquo;, says Nadia This, operations engineer at B.USOC, &amp;laquo;since SOLAR was designed to operate for 18 months only.&amp;raquo;
+The instruments on SOLAR observe the Sun, and due to the movement of the ISS, the instruments must be kept pointed at the Sun actively with a rotating platform, SOLAR.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fsl on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/fsl/</link>
+    <description>Recent content in Fsl on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/fsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First RUBI tests at B.USOC</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/45/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/45/</guid>
+      <description>During the week 2 of January 2017 (Monday 9 to Friday 13), the EM of the RUBI experiment container was tested at B.USOC for the first time, inside the FSL-EM, by TAS-I and Airbus DS.
+The electrical &amp;amp; interfaces Tests were all successful.
+Currently, the RUBI experiment execution target date in the International Space Station is fixed in December 2018. The RUBI experiment container being launched to the Space Station with Space X-17 rocket.</description>
+    </item>
+    
+    <item>
+      <title>Geoflow operational on Fluid Science Laboratory</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/43/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/43/</guid>
+      <description>Science is running again on FSL! The Fluid Science Laboratory, onboard Columbus, was failing to downlink High Rate data for quite some time.
+But yesterday, a workaround to get scientific videos on the ground was finally put in place and tested successfully with the Geoflow experiment, thanks to the perseverance and dedication of B.USOC engineers, professionalism of Airbus (Bremen) and of the Spanish USOC (E.USOC), and the great support and flexibility of the Columbus Control Centre.</description>
+    </item>
+    
+    <item>
+      <title>VMU2 Crew Inspection on Aug 9 2016</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/41/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/41/</guid>
+      <description>   Pedro Duque (crew representative) checked the VMU2 for its operationality (crew access to the unit, mating-demating of harnesses convenience) with respect to the crew activity in the ISS.
+VMU2 will replace the current VMU (Video Management Unit) in the FSL in 2017.
+Honoured to have @astro_duque with us @busoc_official yesterday for an #FSL #ISS crew inspection pic.twitter.com/Q57kQbGHau
+&amp;mdash; aeronomie.be (@BIRA_IASB) August 10, 2016  </description>
+    </item>
+    
+    <item>
+      <title>Installation and Removal of CIMEX</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/33/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/33/</guid>
+      <description>   CIMEX (Convective Interfacial Mass EXperiment) is a MAP research program (Microgravity Application Promotion) funded by ESA and BELSPO and studies studies phase change phenomena and mass transfer through liquid-gas and liquid-liquid interfaces.
+The removal of CIMEX scheduled from monday 18/01 to friday 22/01/2016.
+More info:
+https://www.ulb.ac.be/rech/inventaire/chercheurs/7/CH5947.html
+http://reports.nlr.nl/xmlui/bitstream/handle/10921/898/TP-2000-702.pdf?sequence=1
+http://www.esa.int/spaceinimages/Images/2009/10/CIMEX_setup_click_to_access_larger_download
+Pictures of installation of CIMEX.
+ Pictures of the removal of CIMEX EA from FSL EM.
+ </description>
+    </item>
+    
+    <item>
+      <title>First command to the FSL in the ISS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/28/</link>
+      <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/28/</guid>
+      <description>April 21, 2015: first command sent to B.USOC to the ISS Fluid Science Laboratory (FSL).
+In the morning of April 21, the B.USOC team successfully activated the FSL module in COLUMBUS and both sent test commands and received ancillary data leading to the start of a new activity in B.USOC. This successful end to end test prepares future science operations and is currently analysed in details.</description>
+    </item>
+    
+  </channel>
+</rss>

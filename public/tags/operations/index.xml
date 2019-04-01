@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operations on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/operations/</link>
+    <description>Recent content in Operations on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Wed, 04 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/operations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>METERON Operations on April 29</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/37/</link>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/37/</guid>
+      <description>   The path of the Bridget rover that Tim Peake drove from the ISS on April 29 2016.
+The orange crosses correspond to annotations made by Tim Peake when finding a target (red dot or cross).
+Maximize the picture : https://flic.kr/p/GRdGqr
+   </description>
+    </item>
+    
+    <item>
+      <title>METERON SUPVIS-M (29/04/2016)</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/36/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/36/</guid>
+      <description>On April 29, British astronaut Tim Peake drove a rover named Bridget in the Mars Yard at Stevenage, UK from the International Space Station as part of the METERON project that is preparing for future human-robotic missions to the Moon, Mars and beyond. He had the challenging task of driving a rover across a sandpit that resembles the Martian surface. Bridget is a development model of the ESA EXOMARS mission.</description>
+    </item>
+    
+    <item>
+      <title>The SOLAR payload on the ISS.Fourth bridging operation</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/19/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/19/</guid>
+      <description>The SOLAR payload, located on one of the four external platforms of the Columbus module on the International Space Station, is active since February 2008 and measures the solar spectral irradiance with two instruments : SOLSPEC which covers the spectral range of the Ultra-Violet (UV) to the near infrared and SOL-ACES, a set of spectrometers measuring the Extreme UV radiation (EUV).
+Due to the characteristics of the ISS orbit and the mechanical limitations for the platform, at most 20 minutes of measurements are possible per ISS revolution, and this for only 10 to 12 consecutive days per month.</description>
+    </item>
+    
+    <item>
+      <title>B.USOC role in the ASIM operations on the ISS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/17/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/17/</guid>
+      <description>ASIM is an ISS science payload aimed principally at the observation of Transitory Light Events (TLE) occurring over intense thunderstorms lightning. ASIM observes also TGF’s (terrestrial gamma rays flashes which are also related to strong lightning. It has been proposed by the Danish scientist Torsten Neubert and is due for launch in 2016. B.USOC is Facility Responsible Centre (FRC) for this payload.
+The ASIM mission constitutes of a package of two nadir instruments : one for the visible and another for the X ray and radio frequencies, the normal operating mode is a trigger mode where both instruments are continuously measuring but do not record data below thresholds to be determined by the science team.</description>
+    </item>
+    
+  </channel>
+</rss>

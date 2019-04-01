@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esa on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/esa/</link>
+    <description>Recent content in Esa on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Mon, 02 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/esa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spacelab</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/5/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/5/</guid>
+      <description>Spacelab and 30 years of ESA astronauts
+SPACELAB-1 was the first manned space mission involving several Belgian experiments in earth sciences, solar physics, microgravity and life sciences. In particular, two external payloads: SOLSPEC and SOLCON were quasi identical to instruments flown presently on the SOLAR payload on the ISS and which continue the series of solar irradiance observations initiated by this first mission.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

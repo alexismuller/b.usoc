@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mars on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/mars/</link>
+    <description>Recent content in Mars on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/mars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Return of astronaut Tim Peake</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/40/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/40/</guid>
+      <description>The ESA British astronaut Tim Peake landed on June 18 after an extremely successful science mission oriented in large part towards the future manned exploration programme.
+He conducted ESA experiments and the METERON Supvis-M test of driving a Martian lander mockup from the ISS in a realistic set-up in the dark.
+Much more details can be seen on the mission web site: https://principia.org.uk/the-mission/ and http://blogs.esa.int/tim-peake/</description>
+    </item>
+    
+    <item>
+      <title>THOR - METERON - What a day!</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/31/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/31/</guid>
+      <description>Tuesday 8 September 2015 will stay in the memories of many B.USOC operators for a long time! On that day, Flight Day 7 of the Short Duration Mission of the Danish astronaut Andreas Mogensen onboard the ISS, the operator team was engaged in two experiments successfully achieved.
+That day, at the Belgian Control Centre, the SUPVIS-E experiment was accomplished with great success. The activity consisted of Andreas controlling the Eurobot rover located at ESTEC and executing a scenario including multiple robotic assets.</description>
+    </item>
+    
+    <item>
+      <title>Danish Astronaut Andreas Mogensen ready to conduct METERON and science operations from the ISS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/30/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/30/</guid>
+      <description>Danish Astronaut Andreas Mogensen ready to conduct METERON and science operations from the ISS. The launch is scheduled on September 2.
+On September 2, Danish ESA astronaut Andreas Mogensen will leave on a SOYUZ rocket to the ISS with fellow astronauts Sergei Volkov and Aidyn Aimbetov. During his stay on board the ISS, he will control the EUROBOT robot on ground at ESTEC in the METERON programme, with a new communications protocol adapted for space.</description>
+    </item>
+    
+    <item>
+      <title>Get your first boarding pass to Mars</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/25/</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/25/</guid>
+      <description>NASA has developed a new manned spacecraft: ORION which will be the first since APOLLO to travel beyond the earth orbit with the moon, Mars or asteroids as destinations. These exploration targets are the future of manned exploration. The first unmanned test flight will take place in December this year from NASA Kennedy Space Center to recovery at sea in the Pacific Ocean.
+Even without a payload we can participate by having NASA write our name on a memory chip which will be carried by ORION</description>
+    </item>
+    
+  </channel>
+</rss>

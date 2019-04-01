@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/publications/</link>
+    <description>Recent content in Publications on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/publications/pub-index/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/publications/pub-index/</guid>
+      <description>We have made an inventory of the B.USOC authors publications from 2001 until now and you can access this here .
+A list of B.USOC publications is also available on orfeo from KBR
+2001 Exobiology: Martian Environmental Conditions
+2003 STERILISATION PROPERTIES OF THE MARS SURFACE AND ATMOSPHERIC ENVIRONMENT
+2004 Telescience and Space Missions Operations at the Belgian User Support and Operation Centre
+Le vol habité vers Mars : une étude de l&amp;rsquo;ESA</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pleiades on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/pleiades/</link>
+    <description>Recent content in Pleiades on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Mon, 18 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/pleiades/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New website Pleiades</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/12/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/12/</guid>
+      <description>B.USOC distributes Pléiades images already bought and exploited by Belgian customers through the BELSPO STEREO programme.
+B.USOC distributes Pléiades images already bought and exploited by Belgian customers through the BELSPO STEREO programme. The CNES-European Union Pléiades 1A and Pléiades 1B satellites operate as a constellation in the same orbit, phased 180° apart. The identical twin satellites deliver very-high-resolution optical data products in record time and offer a daily revisit capability to any point on the globe.</description>
+    </item>
+    
+  </channel>
+</rss>

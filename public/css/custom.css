@@ -1,0 +1,14 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+.figureleft {
+float: left; 
+padding-right:9px; /* marge en pixel à droite de la photo */ 
+}

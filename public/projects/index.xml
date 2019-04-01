@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/projects/</link>
+    <description>Recent content in Projects on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>METERON</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/meteron/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/meteron/</guid>
+      <description>Start date November 01, 2011   End date January 31, 2020   Duration 3013   Discipline  Technology    Platform  International Space Station     Mars Exploration: METERON (Multi-Purpose End-To-End Robotic Operation Network) Facility Responsible Centre
+The overall goal of METERON is to set up a simulation environment to allow ground controllers in a Control Centre or astronauts on ISS to be able to simulate robotic exploration scenarios tele-operating a robot located on the ground through the ISS environment.</description>
+    </item>
+    
+    <item>
+      <title>SOLAR</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/solar/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/solar/</guid>
+      <description>Solar Facility Responsible Centre
+  Start date February 07, 2008   End date February 15, 2017   Duration 3296   Discipline  Space Sciences    Platform  International Space Station     For the SOLAR, three complementary space science instruments measured the solar spectral irradiance across almost the whole spectrum: 17-3000 nm. This range carried 99% of the Sun&amp;rsquo;s emitted energy. The three instruments were:</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/home/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/home/</guid>
+      <description>.plusieurs_colonnes{ -moz-column-count: 4; -moz-column-gap: 20px; -webkit-column-count:4; -webkit-column-gap: 20px; column-count:4; column-gap: 20px; list-style: none; } .fourcolumns { -moz-column-count:4; -moz-column-gap: 5px; -webkit-column-count: 4 ; -webkit-column-gap: 20px; column-count:4; column-gap: 20px; list-style: none; ; } @media (max-width: 767px) { .plusieurs_colonnes{ -moz-column-count: 1; -moz-column-gap: 5px; -webkit-column-count: 1 ; -webkit-column-gap: 20px; column-count:1; column-gap: 20px; list-style: none;
+} .fourcolumns { -moz-column-count: 1; -moz-column-gap: 5px; -webkit-column-count: 1 ; -webkit-column-gap: 20px; column-count:1; column-gap: 20px; list-style: none; ; } }    EPT</description>
+    </item>
+    
+    <item>
+      <title>FSL - SMD (Soft matter dynamics)</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/fsl-project/smd/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/fsl-project/smd/</guid>
+      <description>The experiment container SMD is a class 2 payload which can be inserted in the FSL Laboratory. SMD allows to study foams, emulsions and granular matters in microgravity. The container provides optical microscope, single and multi specke diffusing wave spectroscopy, supporting also time resolved correlations, to investigate primarily dynamics on the surface of and inside opaque but translucent materials.
+The experiment container can be extended with on-orbit replaceable science cartridges.</description>
+    </item>
+    
+    <item>
+      <title>CUBIST</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/cubist/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/cubist/</guid>
+      <description>Start date January 01, 2010   End date December 31, 2013   Duration 1460   Discipline  Knowledge management    Platform  International Space Station     CUBIST was a research-project, funded by the European Commission, and conducted by several partners coming from different European Countries (Germany, France, the UK, Belgium and Bulgaria). CUBIST envisioned combining the two worlds of Business Intelligence and Semantic Technologies.</description>
+    </item>
+    
+    <item>
+      <title>ODISSEA</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/odissea/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/odissea/</guid>
+      <description>Start date November 01, 2002   End date November 17, 2002   Duration 16   Discipline  Microgravity    Platform  International Space Station     European Space Agency (ESA) astronaut Frank De Winne, of Belgian nationality, flew to the International Space Station (ISS) in late October 2002 on board a Russian Soyuz taxi flight. He became the first Belgian to visit the ISS.</description>
+    </item>
+    
+    <item>
+      <title>CUBESAT network (QB50)</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/qb50/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/qb50/</guid>
+      <description>Start date November 01, 2011   End date January 31, 2016   Duration 1552   Discipline  Earth Observation    Platform  Cubesat     QB50 had the scientific objective to study in situ the temporal and spatial variations of a number of key constituents and parameters in the lower thermosphere (90-320 km) with a network of about 40 double CubeSats, separated by a few hundred kilometers and carrying identical sensors.</description>
+    </item>
+    
+    <item>
+      <title>EANA</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/eana/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/eana/</guid>
+      <description>Start date October 25, 2000   End date October 25, 2020   Duration 7305   Discipline  Knowledge management    Platform  International Space Station     International Networking: EANA: European Astrobiology Network Association. In the frame of the ISS programme, ESA requested to ensure the promotion of USOC activities towards scientists using the ISS. This objective was reached for the B.</description>
+    </item>
+    
+    <item>
+      <title>PERICLES</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/pericles/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/pericles/</guid>
+      <description>Start date January 01, 2013   End date March 31, 2017   Duration 1550   Discipline  Knowledge management    Platform  International Space Station     PERICLES did not want to invent another preservation system. It wanted to understand how to realize a world where preservation policies - human-defined, human-understandable policies- could shape and change a model of preservation that should, consequently, be implemented in a dynamic architecture with no reliance on any particular computational component.</description>
+    </item>
+    
+    <item>
+      <title>TOSCA</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/tosca/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/tosca/</guid>
+      <description>Start date October 25, 2012   End date October 25, 2015   Duration 1095   Discipline  Knowledge management    Platform  International Space Station     COST actions: COST –ES 10005 (TOSCA) “Towards a more complete assessment of the impact of solar variability on the Earth’s climate”.
+This action increased the visibility of SOLAR as requested by ESA and allowed the participation of B.</description>
+    </item>
+    
+    <item>
+      <title>Ulisse</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/ulisse/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/ulisse/</guid>
+      <description>Start date January 01, 2010   End date December 31, 2012   Duration 1095   Discipline  Knowledge management    Platform  International Space Station     SUVIM was a Belgian Institute for Space Aeronomy (IASB-BIRA) network of stations measuring UV solar radiation with several instruments at each station. The network produced several UV radiation group at IASB-BIRA and provided UV indexes and solar irradiances at the stations in quasi-real time.</description>
+    </item>
+    
+    <item>
+      <title>ALTIUS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/altius/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/altius/</guid>
+      <description>Start date December 31, 2016   End date December 31, 2020   Duration 1462   Discipline  Earth Observation    Platform  micro-satellite of the PROBA class     The ALTIUS instrument observing the earth upper atmospheric composition has been now included in the ESA earthwatch programme, B.USOC will operate an ALTIUS science centre in close cooperation with the BIRA-IASB team which initiated the project.</description>
+    </item>
+    
+    <item>
+      <title>ASIM</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/asim/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/asim/</guid>
+      <description>Start date April 13, 2018   End date January 31, 2020   Duration 658   Discipline  Space Sciences    Platform  International Space Station     ASIM Facility Responsible Centre
+ASIM is an ESA science instrument assembly to be flown on the Columbus External Platform Facility (CEPF) of the ISS (International Space Station). The ASIM concept has been proposed by DNSC (Danish National Space Centre, formerly DSRI (Danish Space Research Institute)), with the objective to observe TLEs (Transient Luminous Events) that occur in the Earth&amp;rsquo;s upper atmosphere accompanied by thunderstorms in the lower atmosphere.</description>
+    </item>
+    
+    <item>
+      <title>NOMAD</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/nomad/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/nomad/</guid>
+      <description>Start date March 14, 2016   End date December 31, 2022   Duration 2484   Discipline  Exploration    Platform  ExoMars Trace Gas Orbiter (TGO)     NOMAD is a payload of the Trace Gas Orbiter (TGO) which is part of the ESA EXOMARS project. TGO has reached his science orbit around Mars during 2018 and as NOMAD has a Belgian Principal Investigator from BIRA-IASB, B.</description>
+    </item>
+    
+    <item>
+      <title>FSL</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/fsl/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/fsl/</guid>
+      <description>Start date October 01, 2013   End date January 31, 2020   Duration 2313   Discipline  Microgravity    Platform  International Space Station     The Fluid Science Laboratory is a multi-user facility to study the dynamics of fluids in the absence of gravity.
+The B.USOC is the control and command centre for FSL. It sends telecommands, receives telemetries and transfers the data to the scientists.</description>
+    </item>
+    
+    <item>
+      <title>ASTROMAP</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/astromap/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/astromap/</guid>
+      <description>Start date November 01, 2011   End date March 01, 2015   Duration 1216   Discipline  Space Sciences    Platform  International Space Station     A FP-7 project to support the European astrobiology network including a mandate to draft a roadmap for astrobiology which was used for the definition of the HORIZON 2020 programme.
+The programme began in early 2013 and organized 4 thematic road mapping workshops.</description>
+    </item>
+    
+    <item>
+      <title>HAM VIDEO</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/hamvideo/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/hamvideo/</guid>
+      <description>Informations    Start date January 01, 2013   End date December 31, 2014   Duration 729   Discipline  Technology    Platform  International Space Station       The objective of the Ham Video On-Orbit Functional Commissioning was to install in Columbus and test the functionalities of the Ham Video hardware and the related on-orbit equipment. After successful performance of the above objective, the Ham Video Flight Segment could be declared functional and ready to be used by Amateur Radio on the International Space Station (ARISS).</description>
+    </item>
+    
+    <item>
+      <title>PICARD</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/picard/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/picard/</guid>
+      <description>Start date June 15, 2010   End date March 01, 2015   Duration 1720   Discipline  Space Sciences    Platform  Myriade     Picard was a microsatellite sending back data needed to improve models used for forecasting solar activity. It was designed to take simultaneous measurements of parameters such as the speed at which the Sun rotates, the radiation it emits, the presence of sunspots and its shape and diameter, to help scientists understand the relationship between them.</description>
+    </item>
+    
+    <item>
+      <title>BRAMS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/brams/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/brams/</guid>
+      <description>Start date January 1, 2010   End date August 12,2016   Duration 2416   Discipline  Space sciences    Platform  International Space Station     BRAMS (Belgian RAdio Meteor Stations) was a radio set receiving stations using forward scattering techniques to study the meteoroids population. The project was coordinated by the Royal Belgian Institute for Space Aeronomy (BISA), within the framework of the Solar-Terrestrial Centre of Excellence (STCE).</description>
+    </item>
+    
+    <item>
+      <title>EPT</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/ept/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/ept/</guid>
+      <description>Start date May 02, 2013   End date May 02, 2018   Duration 1826   Discipline  Earth Observation    Platform  Planetary Operations : Proba     During PROBA-V mission, the Energetic Particle Telescope (EPT) will measure the high-energy particle fluxes with very good energy, angular and mass resolutions. It measures the energy deposited by charged particles into twelve sensitive elements and processes the information to identify the particles (0.</description>
+    </item>
+    
+    <item>
+      <title>KUPS</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/kups/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/kups/</guid>
+      <description>Start date October 31, 2010   End date November 6, 2012   Duration 311   Discipline  Space sciences    Platform  International Space Station     The Portable Power Supply was an autonomous converter unit to distribute 28VDC to one or more payloads (up to three) taking the upstream power 120VDC provided by ISS Columbus Module SUP.
+KuPS was composed of a metal box containing all the required electronic parts and provided of interface connectors, on/off manual switches and autonomous cooling system (forced air convection).</description>
+    </item>
+    
+    <item>
+      <title>LESS &amp; EPO</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/lessepo/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/lessepo/</guid>
+      <description>Start date August 29, 2009   End date December 1,2009   Duration 95   Discipline  Space sciences    Platform  International Space Station     EPO3 Water properties In the context of collaboration between ESA and UNICEF an overview lecture was given with demonstration of various water properties. The recording of the demonstration was used to produce ESA educational multimedia material for upper primary school teachers and their students aged 10-12.</description>
+    </item>
+    
+    <item>
+      <title>Neurocog / Cardiocog</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/neurocog-cardiocog/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/neurocog-cardiocog/</guid>
+      <description>Start date May 4, 2004   End date October 19,2004   Duration 168   Discipline  Space sciences    Platform  International Space Station     During the Increment 9 of the ISS utilization, two experiments with Belgian participation were hold in the Russian module: Neurocog (ULB, CNRS and CNES) and Cardiocog (KULeuven University and CNES). For both expeditions 9 crew members were taking part to these experiments, among them Russian cosmonaut Gennady I.</description>
+    </item>
+    
+    <item>
+      <title>PLEIADES LTDP service</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/pleiades/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/pleiades/</guid>
+      <description>Start date March 01, 2013   End date December 31, 2020   Duration 2861   Discipline  Earth Observation    Platform  Pleiades     In 2006, the Belgium government and the French government signed an additional clause to their initial agreement related to the participation of Belgium in the Spot Programme allowing Belgium to participate in the Pleiades programme as well.</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/cmsp/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/cmsp/</guid>
+      <description>PICARD   Start date June 15, 2010   End date March 01, 2015   Duration 1719   Discipline  Space Sciences     Platform  Myriade      Picard is a microsatellite sending back data needed to improve models used for forecasting solar activity. It was designed to take simultaneous measurements of parameters such as the speed at which the Sun rotates, the radiation it emits, the presence of sunspots and its shape and diameter, to help scientists understand the relationship between them.</description>
+    </item>
+    
+    <item>
+      <title>PromISS-4</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/promiss4/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/promiss4/</guid>
+      <description>Start date December 21, 2005   End date April 1, 2006   Duration 101   Discipline  Microgravity    Platform  International Space Station     PromISS-4 was a Belgian experiment in the International Space Station (ISS) launched with the Progress 20P on 21rst December 2005. Its main scientific objectives were to study proteins, to obtain in microgravity better crystals, to understand protein crystal growth processes.</description>
+    </item>
+    
+    <item>
+      <title>SOLCON</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/solcon/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/solcon/</guid>
+      <description>Start date January 16, 2003   End date February 1,2003   Duration 16   Discipline  Space sciences    Platform  Atlas spacelab     From January 16th 2003 to February 1st 2003, B-USOC hosted the Belgian Remote SOLCON Payload Operation and Control Centre (POCC), which was the only European PI Centre involved and being directly connected to NASA HitchHiker operation networks (via the ESA IGS network, managed by ESOC IGS control team).</description>
+    </item>
+    
+    <item>
+      <title>SOLCON</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/sts107/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/sts107/</guid>
+      <description>Start date January 16, 2003   End date February 1,2003   Duration 16   Discipline  Space sciences    Platform  Atlas spacelab     From January 16th 2003 to February 1st 2003, B-USOC hosted the Belgian Remote SOLCON Payload Operation and Control Centre (POCC), which was the only European PI Centre involved and being directly connected to NASA HitchHiker operation networks (via the ESA IGS network, managed by ESOC IGS control team).</description>
+    </item>
+    
+    <item>
+      <title>Taste in space</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/projects/tasteinspace/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/projects/tasteinspace/</guid>
+      <description>Start date March 18, 2010   End date March 16,2011   Duration 364   Discipline  Space sciences    Platform  International Space Station     The activity was aiming to demonstrate to primary school students the differences in the way in which the sense of taste is affected under weightless conditions and on Earth by comparing the results of a blind tasting of 6 different food items on the ground and in space.</description>
+    </item>
+    
+  </channel>
+</rss>

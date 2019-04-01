@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on B.USOC - Belgian User Support and Operations Centre</title>
+    <link>http://www.mistraldesign.be/www.busoc.be/tags/tests/</link>
+    <description>Recent content in Tests on B.USOC - Belgian User Support and Operations Centre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>social_media@busoc.be (B.USOC)</managingEditor>
+    <webMaster>social_media@busoc.be (B.USOC)</webMaster>
+    <copyright>Copyright (c) 1998 - 2017, B.USOC</copyright>
+    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.mistraldesign.be/www.busoc.be/tags/tests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First RUBI tests at B.USOC</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/45/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/45/</guid>
+      <description>During the week 2 of January 2017 (Monday 9 to Friday 13), the EM of the RUBI experiment container was tested at B.USOC for the first time, inside the FSL-EM, by TAS-I and Airbus DS.
+The electrical &amp;amp; interfaces Tests were all successful.
+Currently, the RUBI experiment execution target date in the International Space Station is fixed in December 2018. The RUBI experiment container being launched to the Space Station with Space X-17 rocket.</description>
+    </item>
+    
+    <item>
+      <title>First Ham Video tests on-board ISS, so far so good!</title>
+      <link>http://www.mistraldesign.be/www.busoc.be/news/14/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      <author>social_media@busoc.be (B.USOC)</author>
+      <guid>http://www.mistraldesign.be/www.busoc.be/news/14/</guid>
+      <description>Thanks to the American astronaut Michael Hopkins, and the operators teams on the ground, B.USOC in close collaboration with ARISS grounds stations spread over Italy. The last pass of Ham Video commissioning is foreseen in April-May timeframe, with the Japanese taïkonaute Koichi Wakata.
+See more information here: http://www.ariss-eu.org/
+http://amsat-uk.org/2014/03/08/iss-hamtv-success/</description>
+    </item>
+    
+  </channel>
+</rss>
